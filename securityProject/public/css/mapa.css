@@ -1,0 +1,86 @@
+.txt_input{
+    border-radius: 3px;
+    text-align: center !important;
+   
+}
+.row{
+    text-align: center !important;
+    width:100%
+}
+.row2{
+    border:0px;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.col{
+    width: 50%;
+}
+.col2{
+    width:50%;
+    text-align: center;
+}
+
+.inputLatitud{
+ text-align: center;
+ margin-top: 5px;
+}
+/* .inputLongitud{
+    text-align: center !important;
+    margin-top: 5px;
+} */
+
+.inputComentario{
+    text-align: center;
+    margin-top: 5px;
+}
+.inputName{
+    text-align: center;
+    margin-top: 5px; 
+}
+.btn_input{
+    border-radius:3px;
+    width: 200px !important;
+    
+}
+.contenedorBotones{
+    text-align: center;
+    margin-top: 10px;
+}
+.btn_guardar{
+    border-radius: 3px;
+    border-color: green;
+    background-color: green;
+    color: white;
+    width: 100px;
+}
+
+.lop{
+    background-color:white !important;
+    
+}
+.comentario{
+    color:black;
+    text-align: center;
+}
+#carouselExampleControls {
+    padding-bottom: 165px;
+  }
+
+
+.carousel-control-next-icon {
+    background-image: url("https://cdn.icon-icons.com/icons2/933/PNG/128/keyboard-right-arrow-button-1_icon-icons.com_72690.png") !important;
+}
+.carousel-control-prev-icon {
+    background-image: url("https://cdn.icon-icons.com/icons2/933/PNG/512/keyboard-left-arrow-button_icon-icons.com_72692.png") !important;
+}
+
+.carousel-indicators li {
+    background-color:black !important;
+
+}
+
+.as{
+    margin-top: -50px;
+
+}
